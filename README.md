@@ -1,6 +1,26 @@
 SEO Checklist
 An SEO (Search Engine Optimization) checklist breaks down the essential steps needed to improve your website's visibility on search engines like Google and AI-powered search tools
 
+
+A. Introduction to URL Structure
+Importance of URLs in SEO
+Role of URLs in crawling, indexing, and ranking
+https://www.abc.com/
+1        2   3   4
+http - hyper text transfer protocol
+S= SSL Certificate
+Google Algorithm Update: https://moz.com/google-algorithm-change
+WWW= world wide web
+abc
+main domain name website / business name domain purchase
+.com extension
+
+
+
+
+
+
+
 1. Setup & Analytics
 
 • Google Search Console (GSC): Submit your site and monitor indexing errors, search queries, and coverage.
