@@ -15,6 +15,10 @@ abc
 main domain name website / business name domain purchase
 .com extension
 
+Types: Dynamic vs Static URLs
+Static URL: Does not change, easier to read example.com/seo-guide
+Dynamic URL: Contains parameters example.com/page?id=12&cat=seo
+SEO Tip: Prefer static URLs where possible
 
 
 
